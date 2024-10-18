@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "0D00F06B-4A45-418D-93DF-BC1F2D42A903",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "Presentation",
+        "name" : "Presentation"
+      }
+    }
+  ],
+  "version" : 1
+}
